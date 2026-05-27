@@ -8,22 +8,22 @@
 <p align="center"><sub>Ömer Sunguralp Bektaş</sub></p>
 
 <p align="center">
-  <a href="README.tr.md">🇹🇷 Türkçe</a>
+  <a href="README.md">🇬🇧 English</a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Hakkımda
 
-AI & Data Engineering student at **Atatürk University** — 21 years old, he/him, from the **East Blue** / **Satorl Kingdom**.
+**Atatürk Üniversitesi** Yapay Zeka ve Veri Mühendisliği öğrencisi — 21 yaşında, he/him, **East Blue** / **Satorl Krallığı** doğumlu.
 
-I'm the kind of person who gets an idea at midnight and ends up coding until sunrise. I'm drawn to open source, pixel art, and anything that mixes creativity with technology. If it can be built, I'll probably try to build it at 2 AM.
+Gece aklıma bir fikir gelir, sabahın körüne kadar kod yazarım. Açık kaynak tutkunu, pixel art meraklısı ve teknolojiyle yaratıcılığı birleştiren her şeye ilgi duyarım. Eğer inşa edilebiliyorsa, gece 2'de denerim muhtemelen.
 
-> *"No, I'm that Koby! The useless crybaby Koby!"*
+> *"Hayır, ben o Koby'yim! İşe yaramaz, ağlak Koby!"*
 
 ---
 
-## 🛠️ Tools & Environment
+## 🛠️ Araçlar & Ortam
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -34,42 +34,42 @@ I'm the kind of person who gets an idea at midnight and ends up coding until sun
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Şu An Üzerinde Çalıştıklarım
 
-- 🤖 **a3i — Academic Research Assistant** built on Claude Code
-- 📚 Deepening my knowledge in AI & Data Engineering
-- 🎨 Occasional pixel art when the code won't cooperate
-
----
-
-## 🏆 Achievements
-
-| 🥇 | Event | Details |
-|----|-------|---------|
-| 🏅 **5th Place** | AI Spark Hackathon *(AYZEK — Erzurum)* | Solo entry |
+- 🤖 **a3i — Akademik Araştırma Asistanı** — Claude Code üzerine inşa edildi
+- 📚 Yapay Zeka & Veri Mühendisliği bilgimi derinleştiriyorum
+- 🎨 Kod işlemeyince ara sıra pixel art
 
 ---
 
-## 📜 Certificates
+## 🏆 Başarılar
 
-| Certificate | Organization | Location | Year |
-|-------------|--------------|----------|------|
-| AI Summit Erzurum 2024 — Participation | Atatürk University | Erzurum, TR | 2024 |
+| 🥇 | Etkinlik | Detay |
+|----|----------|-------|
+| 🏅 **5.lik Ödülü** | AI Spark Hackathon *(AYZEK — Erzurum)* | Bireysel katılım |
+
+---
+
+## 📜 Sertifikalar
+
+| Sertifika | Kurum | Konum | Yıl |
+|-----------|-------|-------|-----|
+| AI Summit Erzurum 2024 — Katılım | Atatürk Üniversitesi | Erzurum, TR | 2024 |
 | Adventure, Health and Sports: Empowering Youth for Life | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2024 |
 | EmpowerHer: Youth Champions for Women's Safety | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
 | Stories That Matter: Exploring Social Issues Through Mystery Box Theater | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sungurulol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sungurulol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri">
 </p>
 
 ---
 
-## 📬 Contact
+## 📬 İletişim
 
 <p align="center">
   <a href="https://x.com/sungurulol"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
