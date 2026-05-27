@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-AI & Data Engineering student at **Atatürk University** — 21 years old, he/him, from the **East Blue** / **Satorl Kingdom**.
+AI & Data Engineering student at **Atatürk University** — 21 years old, he/him
 
 I'm the kind of person who gets an idea at midnight and ends up coding until sunrise. I'm drawn to open source, pixel art, and anything that mixes creativity with technology. If it can be built, I'll probably try to build it at 2 AM.
 
@@ -58,14 +58,6 @@ I'm the kind of person who gets an idea at midnight and ends up coding until sun
 | Adventure, Health and Sports: Empowering Youth for Life | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2024 |
 | EmpowerHer: Youth Champions for Women's Safety | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
 | Stories That Matter: Exploring Social Issues Through Mystery Box Theater | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sungurulol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
-</p>
 
 ---
 
