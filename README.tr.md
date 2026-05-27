@@ -15,7 +15,7 @@
 
 ## 👋 Hakkımda
 
-**Atatürk Üniversitesi** Yapay Zeka ve Veri Mühendisliği öğrencisi — 21 yaşında, he/him, **East Blue** / **Satorl Krallığı** doğumlu.
+**Atatürk Üniversitesi** Yapay Zeka ve Veri Mühendisliği öğrencisi — 21 yaşında, he/him
 
 Gece aklıma bir fikir gelir, sabahın körüne kadar kod yazarım. Açık kaynak tutkunu, pixel art meraklısı ve teknolojiyle yaratıcılığı birleştiren her şeye ilgi duyarım. Eğer inşa edilebiliyorsa, gece 2'de denerim muhtemelen.
 
@@ -58,14 +58,6 @@ Gece aklıma bir fikir gelir, sabahın körüne kadar kod yazarım. Açık kayna
 | Adventure, Health and Sports: Empowering Youth for Life | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2024 |
 | EmpowerHer: Youth Champions for Women's Safety | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
 | Stories That Matter: Exploring Social Issues Through Mystery Box Theater | FuturEurope Malta / Erasmus+ | Trabzon, TR | 2025 |
-
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sungurulol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri">
-</p>
 
 ---
 
