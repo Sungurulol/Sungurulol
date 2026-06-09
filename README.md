@@ -31,6 +31,7 @@ I'm the kind of person who gets an idea at midnight and ends up coding until sun
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=flat-square&logo=kubuntu&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
+![League of Legends](https://img.shields.io/badge/League%20of%20Legends-C89B3C?style=flat-square&logo=riot-games&logoColor=white)
 
 ---
 
